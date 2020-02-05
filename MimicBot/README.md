@@ -5,7 +5,13 @@ Assuming each user input is a text message, my bot outputs an encoded form of th
 
 Mimic Bot is an Alexa skill that starts up on inputing 'mimic bot' in the Alexa Test tab of the Alexa development console.
 
-E.g.      
+E.g.   
+          
+          My Skill ID -> amzn1.ask.skill.c78ef217-08ad-41c3-bb44-7e6b7b845169
+
+       Alexa Endpoint -> arn:aws:lambda:us-east-1:741865522592:function:c78ef217-08ad-41c3-bb44-7e6b7b845169:Release_0
+       
+       
           
           User Input  : mimic bot
     MimicBot's Output : Welcome! This is an Alexa Echo skill!
