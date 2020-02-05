@@ -7,7 +7,8 @@ Mimic Bot is an Alexa skill that starts up on inputing 'mimic bot' in the Alexa 
 
 E.g.   
           
-          My Skill ID -> amzn1.ask.skill.c78ef217-08ad-41c3-bb44-7e6b7b845169
+             Skill ID -> amzn1.ask.skill.c78ef217-08ad-41c3-bb44-7e6b7b845169
+            Skill Name-> hello-alexa
 
        Alexa Endpoint -> arn:aws:lambda:us-east-1:741865522592:function:c78ef217-08ad-41c3-bb44-7e6b7b845169:Release_0
        
